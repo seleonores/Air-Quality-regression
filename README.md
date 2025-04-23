@@ -26,8 +26,8 @@ This is a FastAPI-based web service that predicts air quality based on various e
    pip install fastapi pydantic numpy scikit-learn joblib
    ```
 3. Ensure you have the following files in your working directory:
-   - `model.pkl` (your pre-trained model)
-   - `scaler.pkl` (your pre-fitted scaler)
+   - `model.pkl` (pre-trained model)
+   - `scaler.pkl` (pre-fitted scaler)
 
 ## Usage
 
